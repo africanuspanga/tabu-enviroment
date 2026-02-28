@@ -201,11 +201,13 @@ export default function Home() {
               src="/about-section.png" 
               alt="Tree nursery" 
               className="hero-image-float"
+              loading="lazy"
             />
             <img 
               src="/istockphoto-2215440365-612x612.jpg" 
               alt="Environmental work" 
               className="hero-image-float"
+              loading="lazy"
             />
           </div>
         </div>
